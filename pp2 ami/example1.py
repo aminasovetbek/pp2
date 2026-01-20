@@ -1,2 +1,2 @@
-# ===== Task 1 =====
+# ===== Example 1 =====
 print("Hello, World!")
